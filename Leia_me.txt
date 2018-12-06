@@ -1,0 +1,2 @@
+ Este projeto e um codigo em java, para mandar salvar informações e envialas para o banco de dados.
+utilizando o framework hibernateORM e primefaces. Estou usando o maven e tambem um pouco JSF
